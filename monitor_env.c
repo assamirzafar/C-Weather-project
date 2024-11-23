@@ -8,7 +8,7 @@
 #include "weather_utils.h"
 #include "time_utils.h"
 
-#define API_KEY "3acaa120c764409c9d65da950a390402"  // Replace with your API key
+#define API_KEY "your-api-key-here"  // Replace with your API key
 #define CITY "Karachi"  // City for which to get the weather
 
 int main() {
