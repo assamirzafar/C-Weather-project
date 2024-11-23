@@ -14,7 +14,7 @@ This project fetches real-time temperature data for a specified city (default: K
 ### Prerequisites:
 - **Linux Environment**
 - **Internet Connection**
-- **OpenWeatherMap API Key** (already included; replace if needed)
+- **OpenWeatherMap API Key** 
 
 ---
 
@@ -65,7 +65,7 @@ This will:
 
 ### Customization:
 - **Change City:** Edit the `CITY` macro in `monitor_env.c`.
-- **API Key:** Replace the `API_KEY` with your OpenWeatherMap API key.
+- **API Key:** Replace the `you-api-key-here` with your OpenWeatherMap API key.
 
 ---
 
