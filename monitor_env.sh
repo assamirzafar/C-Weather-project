@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# Set display for cron jobs to send desktop notifications
-#export DISPLAY=:0
-# Export the D-Bus session address for notify-send to work
+
 
 export DISPLAY=:0
 export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
