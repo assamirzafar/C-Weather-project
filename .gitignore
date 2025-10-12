@@ -1,0 +1,21 @@
+# Compiled binaries
+monitor_env
+
+# Log files
+monitor_log.txt
+cron.log
+
+# Object files
+*.o
+*.out
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
